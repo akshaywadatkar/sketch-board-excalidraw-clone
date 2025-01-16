@@ -1,0 +1,15 @@
+.sketch-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .canvas-container {
+    border: 1px solid #ccc;
+  }
+  
+  canvas {
+    background-color: white;
+  }
+  
